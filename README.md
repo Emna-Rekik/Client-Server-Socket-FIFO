@@ -1,6 +1,6 @@
 # Client-Server-with-Socket
 
-This project is a continuation of the previous project titled "Client-Server-with-FIFO". However, this time, we will be using sockets to accomplish the same task. The main goal of this project is to develop a Server-Client application where the client requests some random numbers from the server. The server generates the response and sends it back to the client. Additionally, we will also be developing a graphical user interface that brings together both of these functionalities.
+This project is a continuation of the previous project titled [Client-Server-with-FIFO](https://github.com/Emna-Rekik/Client-Server-with-FIFO). However, this time, we will be using sockets to accomplish the same task. The main goal of this project is to develop a Server-Client application where the client requests some random numbers from the server. The server generates the response and sends it back to the client. Additionally, we will also be developing a graphical user interface that brings together both of these functionalities.
 
 #### Welcome Interface :
 ![Screenshot from 2023-03-05 20-15-58](https://user-images.githubusercontent.com/89909599/222983924-45e7dad3-8519-4f5f-9430-ccda0bd67936.png)
